@@ -1,0 +1,9 @@
+Agile Software Development is a set of software development methods in which requirements and solutions evolve through
+ collaboration between self-organizing, cross-functional teams. It promotes adaptive planning, evolutionary development,
+ early delivery, continuous improvement, and encourages rapid and flexible response to change.Agile development is an 
+alternative to traditional project management where emphasis is placed on empowering people to collaborate and make team
+ decisions in addition to continuous planning, continuous testing and continuous integration.
+The Agile Manifesto
+Agile development is used to  describe any development process that is aligned with the concepts of the Agile Manifesto.
+This well-known documentation was developed by leaders in the software industry and is based on experience with what works
+and what doesn't in software development.Agile is no doubt the present and future of software development.
